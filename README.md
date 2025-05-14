@@ -1,6 +1,6 @@
 # Maciel Júnior
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Front-End`**
 
 Bem vindo! Aqui eu compartilho meus projetos.
 
