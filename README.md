@@ -1,11 +1,11 @@
 # Maciel Júnior
 
-**`Desenvolvedor Front-End`**
+**`Full-stack Developer`**
 
-Bem vindo! Aqui eu compartilho meus projetos.
+Bem vindo!
 
 #
-### Linguagens e Tecnologias
+### Languages and Technologies
 
 
 <img 
@@ -49,3 +49,19 @@ title="HTML"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
